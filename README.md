@@ -1,36 +1,133 @@
-# My Portfolio Website
+# 👋 Hi, I'm Veer Pratap Singh
 
-Hi! I'm Veer Pratap Singh, a third-year BCA student.
+### BCA Student | IT Support | Cloud Computing | Data Operations
 
-This is my personal portfolio website, created using HTML and CSS.
+Welcome to my GitHub portfolio! I am pursuing a Bachelor of Computer Applications (BCA) at Garden City University, Bengaluru.
 
-## About Me
+I am interested in IT support, cloud computing, databases, and data management. I enjoy learning new technologies and developing my technical skills through practical projects.
 
-I enjoy learning new technologies and solving problems.
-I'm interested in software development, data analysis,
-cybersecurity, and artificial intelligence.
+---
 
-## Skills
+## 🌐 My Portfolio
 
-- Python
+🔗 **Visit my website:**  
+https://veer-pratap-singh123.github.io/Portfolio-Website/
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 BCA student at Garden City University (2024–2027)
+- 💻 Interested in IT support and system administration
+- ☁️ Learning cloud computing with AWS
+- 🗄️ Familiar with SQL and SQLite databases
+- 🐍 Basic knowledge of Python programming
+- 🏆 NCC A and B Certificate holder
+- 🤝 Participant in the EBSB National Camp
+- 📍 Bengaluru, Karnataka, India
+
+---
+
+## 🛠️ Technical Skills
+
+**Operating Systems**
+- Ubuntu Linux
+- Windows
+
+**Cloud Computing**
+- AWS EC2
+- AWS S3
+- AWS EBS
+- AMI
+- Load Balancer
+
+**Programming and Web Development**
+- Python (Basic)
 - C and C++
-- SQL
-- HTML
-- CSS
-- Git and GitHub
-- Microsoft Excel
+- HTML and CSS
 
-## Projects
+**Databases**
+- SQL
+- SQLite
+- Relational Databases
+
+**Tools**
+- Git and GitHub
+- Visual Studio Code
+- Microsoft Excel
+- MS Office
+
+**Professional Skills**
+- Communication
+- Teamwork
+- Leadership
+- Problem-Solving
+- Time Management
+
+---
+
+## 🚀 My Projects
 
 ### 1. Student Management System
-A Python and SQLite project for managing student records.
+A Python console application using SQLite to add, view, search, and delete student records.
+
+**Technologies:** Python, SQLite
 
 ### 2. Python File Organizer
-A Python program that organizes files into folders based on their extensions.
+A Python script that organises files into folders according to their file types.
 
-### 3. Portfolio Website
-My personal website created using HTML and CSS.
+**Technologies:** Python, os, shutil
 
-## Contact
+### 3. AWS Cloud Computing Practicals
+Academic lab exercises involving EC2 instances, webpage hosting, AMI creation, EBS volumes, S3 buckets, and load balancers.
 
-Email: kveer8296@gmail.com
+**Technologies:** AWS, EC2, S3, EBS
+
+### 4. Personal Portfolio Website
+A personal website showcasing my education, technical skills, projects, certifications, and professional information.
+
+**Technologies:** HTML, CSS, GitHub Pages
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**  
+Garden City University, Bengaluru  
+2024–2027 | Currently Pursuing
+
+---
+
+## 📜 Certifications
+
+- Introduction to Cloud Computing — IBM
+- Introduction to Big Data with Spark and Hadoop — IBM
+- Introduction to Artificial Intelligence (AI) — IBM
+- Machine Learning for All — University of London
+- Relational Database Systems
+- Python Functions, Files, and Dictionaries
+- Introduction to Web Development
+
+---
+
+## 🏅 Leadership and Activities
+
+**National Cadet Corps (NCC)**
+- NCC A and B Certificate holder
+- Working toward the C Certificate
+
+**EBSB National Camp**
+- Participant in the Ek Bharat Shreshtha Bharat National Camp
+
+---
+
+## 📫 Connect With Me
+
+- **Email:** kveer8296@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/veer-pratap-singh-89a7022ba
+- **GitHub:** https://github.com/veer-pratap-singh123
+- **Portfolio:** https://veer-pratap-singh123.github.io/Portfolio-Website/
+
+---
+
+⭐ Thank you for visiting my profile!
